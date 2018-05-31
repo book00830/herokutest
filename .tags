@@ -1,0 +1,77 @@
+body	/Users/choechaegeun/eclipse/rails-master/app/assets/stylesheets/grayscale.css.scss	/^body {$/;"	function	line:7
+html	/Users/choechaegeun/eclipse/rails-master/app/assets/stylesheets/grayscale.css.scss	/^html {$/;"	function	line:15
+h1	/Users/choechaegeun/eclipse/rails-master/app/assets/stylesheets/grayscale.css.scss	/^h1,$/;"	function	line:20
+h2	/Users/choechaegeun/eclipse/rails-master/app/assets/stylesheets/grayscale.css.scss	/^h2,$/;"	function	line:21
+h3	/Users/choechaegeun/eclipse/rails-master/app/assets/stylesheets/grayscale.css.scss	/^h3,$/;"	function	line:22
+h4	/Users/choechaegeun/eclipse/rails-master/app/assets/stylesheets/grayscale.css.scss	/^h4,$/;"	function	line:23
+h5	/Users/choechaegeun/eclipse/rails-master/app/assets/stylesheets/grayscale.css.scss	/^h5,$/;"	function	line:24
+h6	/Users/choechaegeun/eclipse/rails-master/app/assets/stylesheets/grayscale.css.scss	/^h6 {$/;"	function	line:25
+p	/Users/choechaegeun/eclipse/rails-master/app/assets/stylesheets/grayscale.css.scss	/^p {$/;"	function	line:33
+@media(min-width:768px)	/Users/choechaegeun/eclipse/rails-master/app/assets/stylesheets/grayscale.css.scss	/^@media(min-width:768px) {$/;"	function	line:39
+p	/Users/choechaegeun/eclipse/rails-master/app/assets/stylesheets/grayscale.css.scss	/^    p {$/;"	function	line:40
+a	/Users/choechaegeun/eclipse/rails-master/app/assets/stylesheets/grayscale.css.scss	/^a {$/;"	function	line:47
+a:hover	/Users/choechaegeun/eclipse/rails-master/app/assets/stylesheets/grayscale.css.scss	/^a:hover,$/;"	function	line:54
+a:focus	/Users/choechaegeun/eclipse/rails-master/app/assets/stylesheets/grayscale.css.scss	/^a:focus {$/;"	function	line:55
+.light	/Users/choechaegeun/eclipse/rails-master/app/assets/stylesheets/grayscale.css.scss	/^.light {$/;"	function	line:60
+.navbar-custom	/Users/choechaegeun/eclipse/rails-master/app/assets/stylesheets/grayscale.css.scss	/^.navbar-custom {$/;"	function	line:64
+.navbar-custom .navbar-brand	/Users/choechaegeun/eclipse/rails-master/app/assets/stylesheets/grayscale.css.scss	/^.navbar-custom .navbar-brand {$/;"	function	line:72
+.navbar-custom .navbar-brand:focus	/Users/choechaegeun/eclipse/rails-master/app/assets/stylesheets/grayscale.css.scss	/^.navbar-custom .navbar-brand:focus {$/;"	function	line:76
+.navbar-custom .navbar-brand .navbar-toggle	/Users/choechaegeun/eclipse/rails-master/app/assets/stylesheets/grayscale.css.scss	/^.navbar-custom .navbar-brand .navbar-toggle {$/;"	function	line:80
+.navbar-custom .navbar-brand .navbar-toggle:focus	/Users/choechaegeun/eclipse/rails-master/app/assets/stylesheets/grayscale.css.scss	/^.navbar-custom .navbar-brand .navbar-toggle:focus,$/;"	function	line:86
+.navbar-custom .navbar-brand .navbar-toggle:active	/Users/choechaegeun/eclipse/rails-master/app/assets/stylesheets/grayscale.css.scss	/^.navbar-custom .navbar-brand .navbar-toggle:active {$/;"	function	line:87
+.navbar-custom a	/Users/choechaegeun/eclipse/rails-master/app/assets/stylesheets/grayscale.css.scss	/^.navbar-custom a {$/;"	function	line:91
+.navbar-custom .nav li a	/Users/choechaegeun/eclipse/rails-master/app/assets/stylesheets/grayscale.css.scss	/^.navbar-custom .nav li a {$/;"	function	line:95
+.navbar-custom .nav li a:hover	/Users/choechaegeun/eclipse/rails-master/app/assets/stylesheets/grayscale.css.scss	/^.navbar-custom .nav li a:hover {$/;"	function	line:101
+.navbar-custom .nav li a:focus	/Users/choechaegeun/eclipse/rails-master/app/assets/stylesheets/grayscale.css.scss	/^.navbar-custom .nav li a:focus,$/;"	function	line:107
+.navbar-custom .nav li a:active	/Users/choechaegeun/eclipse/rails-master/app/assets/stylesheets/grayscale.css.scss	/^.navbar-custom .nav li a:active {$/;"	function	line:108
+.navbar-custom .nav li.active	/Users/choechaegeun/eclipse/rails-master/app/assets/stylesheets/grayscale.css.scss	/^.navbar-custom .nav li.active {$/;"	function	line:113
+.navbar-custom .nav li.active a	/Users/choechaegeun/eclipse/rails-master/app/assets/stylesheets/grayscale.css.scss	/^.navbar-custom .nav li.active a {$/;"	function	line:117
+.navbar-custom .nav li.active a:hover	/Users/choechaegeun/eclipse/rails-master/app/assets/stylesheets/grayscale.css.scss	/^.navbar-custom .nav li.active a:hover {$/;"	function	line:121
+@media(min-width:768px)	/Users/choechaegeun/eclipse/rails-master/app/assets/stylesheets/grayscale.css.scss	/^@media(min-width:768px) {$/;"	function	line:125
+.navbar-custom	/Users/choechaegeun/eclipse/rails-master/app/assets/stylesheets/grayscale.css.scss	/^    .navbar-custom {$/;"	function	line:126
+.navbar-custom.top-nav-collapse	/Users/choechaegeun/eclipse/rails-master/app/assets/stylesheets/grayscale.css.scss	/^    .navbar-custom.top-nav-collapse {$/;"	function	line:136
+.intro	/Users/choechaegeun/eclipse/rails-master/app/assets/stylesheets/grayscale.css.scss	/^.intro {$/;"	function	line:143
+.intro .intro-body	/Users/choechaegeun/eclipse/rails-master/app/assets/stylesheets/grayscale.css.scss	/^.intro .intro-body {$/;"	function	line:158
+.intro .intro-body .brand-heading	/Users/choechaegeun/eclipse/rails-master/app/assets/stylesheets/grayscale.css.scss	/^.intro .intro-body .brand-heading {$/;"	function	line:163
+.intro .intro-body .intro-text	/Users/choechaegeun/eclipse/rails-master/app/assets/stylesheets/grayscale.css.scss	/^.intro .intro-body .intro-text {$/;"	function	line:167
+@media(min-width:768px)	/Users/choechaegeun/eclipse/rails-master/app/assets/stylesheets/grayscale.css.scss	/^@media(min-width:768px) {$/;"	function	line:171
+.intro	/Users/choechaegeun/eclipse/rails-master/app/assets/stylesheets/grayscale.css.scss	/^    .intro {$/;"	function	line:172
+.intro .intro-body .brand-heading	/Users/choechaegeun/eclipse/rails-master/app/assets/stylesheets/grayscale.css.scss	/^    .intro .intro-body .brand-heading {$/;"	function	line:177
+.intro .intro-body .intro-text	/Users/choechaegeun/eclipse/rails-master/app/assets/stylesheets/grayscale.css.scss	/^    .intro .intro-body .intro-text {$/;"	function	line:181
+.btn-circle	/Users/choechaegeun/eclipse/rails-master/app/assets/stylesheets/grayscale.css.scss	/^.btn-circle {$/;"	function	line:186
+.btn-circle:hover	/Users/choechaegeun/eclipse/rails-master/app/assets/stylesheets/grayscale.css.scss	/^.btn-circle:hover,$/;"	function	line:201
+.btn-circle:focus	/Users/choechaegeun/eclipse/rails-master/app/assets/stylesheets/grayscale.css.scss	/^.btn-circle:focus {$/;"	function	line:202
+.btn-circle i.animated	/Users/choechaegeun/eclipse/rails-master/app/assets/stylesheets/grayscale.css.scss	/^.btn-circle i.animated {$/;"	function	line:208
+.btn-circle:hover i.animated	/Users/choechaegeun/eclipse/rails-master/app/assets/stylesheets/grayscale.css.scss	/^.btn-circle:hover i.animated {$/;"	function	line:215
+@-webkit-keyframes pulse	/Users/choechaegeun/eclipse/rails-master/app/assets/stylesheets/grayscale.css.scss	/^@-webkit-keyframes pulse {$/;"	function	line:226
+0%	/Users/choechaegeun/eclipse/rails-master/app/assets/stylesheets/grayscale.css.scss	/^    0% {$/;"	function	line:227
+50%	/Users/choechaegeun/eclipse/rails-master/app/assets/stylesheets/grayscale.css.scss	/^    50% {$/;"	function	line:232
+100%	/Users/choechaegeun/eclipse/rails-master/app/assets/stylesheets/grayscale.css.scss	/^    100% {$/;"	function	line:237
+@-moz-keyframes pulse	/Users/choechaegeun/eclipse/rails-master/app/assets/stylesheets/grayscale.css.scss	/^@-moz-keyframes pulse {$/;"	function	line:243
+0%	/Users/choechaegeun/eclipse/rails-master/app/assets/stylesheets/grayscale.css.scss	/^    0% {$/;"	function	line:244
+50%	/Users/choechaegeun/eclipse/rails-master/app/assets/stylesheets/grayscale.css.scss	/^    50% {$/;"	function	line:249
+100%	/Users/choechaegeun/eclipse/rails-master/app/assets/stylesheets/grayscale.css.scss	/^    100% {$/;"	function	line:254
+.content-section	/Users/choechaegeun/eclipse/rails-master/app/assets/stylesheets/grayscale.css.scss	/^.content-section {$/;"	function	line:260
+.download-section	/Users/choechaegeun/eclipse/rails-master/app/assets/stylesheets/grayscale.css.scss	/^.download-section {$/;"	function	line:264
+#map	/Users/choechaegeun/eclipse/rails-master/app/assets/stylesheets/grayscale.css.scss	/^#map {$/;"	function	line:279
+@media(min-width:767px)	/Users/choechaegeun/eclipse/rails-master/app/assets/stylesheets/grayscale.css.scss	/^@media(min-width:767px) {$/;"	function	line:285
+.content-section	/Users/choechaegeun/eclipse/rails-master/app/assets/stylesheets/grayscale.css.scss	/^    .content-section {$/;"	function	line:286
+.download-section	/Users/choechaegeun/eclipse/rails-master/app/assets/stylesheets/grayscale.css.scss	/^    .download-section {$/;"	function	line:290
+#map	/Users/choechaegeun/eclipse/rails-master/app/assets/stylesheets/grayscale.css.scss	/^    #map {$/;"	function	line:294
+.btn	/Users/choechaegeun/eclipse/rails-master/app/assets/stylesheets/grayscale.css.scss	/^.btn {$/;"	function	line:300
+.btn-default	/Users/choechaegeun/eclipse/rails-master/app/assets/stylesheets/grayscale.css.scss	/^.btn-default {$/;"	function	line:310
+.btn-default:hover	/Users/choechaegeun/eclipse/rails-master/app/assets/stylesheets/grayscale.css.scss	/^.btn-default:hover,$/;"	function	line:316
+.btn-default:focus	/Users/choechaegeun/eclipse/rails-master/app/assets/stylesheets/grayscale.css.scss	/^.btn-default:focus {$/;"	function	line:317
+ul.banner-social-buttons	/Users/choechaegeun/eclipse/rails-master/app/assets/stylesheets/grayscale.css.scss	/^ul.banner-social-buttons {$/;"	function	line:324
+@media(max-width:1199px)	/Users/choechaegeun/eclipse/rails-master/app/assets/stylesheets/grayscale.css.scss	/^@media(max-width:1199px) {$/;"	function	line:328
+ul.banner-social-buttons	/Users/choechaegeun/eclipse/rails-master/app/assets/stylesheets/grayscale.css.scss	/^    ul.banner-social-buttons {$/;"	function	line:329
+@media(max-width:767px)	/Users/choechaegeun/eclipse/rails-master/app/assets/stylesheets/grayscale.css.scss	/^@media(max-width:767px) {$/;"	function	line:334
+ul.banner-social-buttons li	/Users/choechaegeun/eclipse/rails-master/app/assets/stylesheets/grayscale.css.scss	/^    ul.banner-social-buttons li {$/;"	function	line:335
+ul.banner-social-buttons li:last-child	/Users/choechaegeun/eclipse/rails-master/app/assets/stylesheets/grayscale.css.scss	/^    ul.banner-social-buttons li:last-child {$/;"	function	line:341
+footer	/Users/choechaegeun/eclipse/rails-master/app/assets/stylesheets/grayscale.css.scss	/^footer {$/;"	function	line:346
+footer p	/Users/choechaegeun/eclipse/rails-master/app/assets/stylesheets/grayscale.css.scss	/^footer p {$/;"	function	line:350
+::-moz-selection	/Users/choechaegeun/eclipse/rails-master/app/assets/stylesheets/grayscale.css.scss	/^::-moz-selection {$/;"	function	line:354
+::selection	/Users/choechaegeun/eclipse/rails-master/app/assets/stylesheets/grayscale.css.scss	/^::selection {$/;"	function	line:360
+img::selection	/Users/choechaegeun/eclipse/rails-master/app/assets/stylesheets/grayscale.css.scss	/^img::selection {$/;"	function	line:366
+img::-moz-selection	/Users/choechaegeun/eclipse/rails-master/app/assets/stylesheets/grayscale.css.scss	/^img::-moz-selection {$/;"	function	line:370
+body	/Users/choechaegeun/eclipse/rails-master/app/assets/stylesheets/grayscale.css.scss	/^body {$/;"	function	line:374
