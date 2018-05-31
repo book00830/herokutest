@@ -15,6 +15,14 @@ gem 'bootsnap', '>= 1.1.0', require: false
 gem 'rubocop', '0.55.0'
 gem 'sdoc', '~> 0.4.0', group: :doc
 gem 'bootstrap', '~> 4.1', '>= 4.1.1'
+gem 'bcrypt',         '3.1.11'
+gem 'faker',          '1.7.3'
+gem 'carrierwave',             '1.2.2'
+gem 'mini_magick',             '4.7.0'
+gem 'will_paginate',           '3.1.6'
+gem 'bootstrap-will_paginate', '1.0.0'
+
+
 
 # custom theme requirements
 gem 'therubyracer'
@@ -43,5 +51,13 @@ group :test do
   gem 'guard',                    '2.14.2'
   gem 'guard-minitest',           '2.4.6'
 end
+
+group :production do
+  gem 'unicorn', '5.3.0'
+  gem 'unicorn-worker-killer', '~> 0.4.4'
+
+end
+
+
 
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
