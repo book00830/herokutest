@@ -54,7 +54,7 @@ group :test do
 end
 
 group :production do
-  gem 'pg', '~> 0.18.4'
+
   gem 'unicorn', '5.3.0'
   gem 'unicorn-worker-killer', '~> 0.4.4'
 
